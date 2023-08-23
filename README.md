@@ -1,9 +1,6 @@
 
 <h1 align="center"><b>Hi , ??? </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=19&pause=700&color=D40000&center=true&vCenter=true&multiline=true&width=435&height=60&lines=do+you+wanna+know+about+me%3F;2D+%3E+3D" alt="Typing SVG" /></a>
-</p>
 
 
 <br>
