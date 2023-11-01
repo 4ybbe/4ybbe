@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , ??? </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi ??? </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 
@@ -14,8 +14,6 @@
 <br>
 
 - Extremelly confused
-- Expert on bad english language
-- Trying to keep alive
 - Someday i will be a great astronaut
 - Welcome to my world
 
@@ -28,8 +26,7 @@
 
 <p align="center">
 
-- **Really? this template sucks**:
-- **i quit**:
+- **I can do whatever i want, if i want**:
 
 <br>   
     
